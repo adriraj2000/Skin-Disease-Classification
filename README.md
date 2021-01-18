@@ -1,6 +1,9 @@
 # Skin-Disease-Classification
 ![Project Demo](Demo.gif)
 
+# Sample snaps from each category
+![Photos](category_samples.png)
+
 
 # Youtube Link 
 https://www.youtube.com/watch?v=k4piRU17IpQ&feature=youtu.be
