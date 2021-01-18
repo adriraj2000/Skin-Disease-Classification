@@ -1,4 +1,5 @@
 # Skin-Disease-Classification
+(Demo.gif)
 
 # Youtube Link 
 https://www.youtube.com/watch?v=k4piRU17IpQ&feature=youtu.be
